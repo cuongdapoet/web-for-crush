@@ -15,8 +15,8 @@ function firstQuestion(){
     $('.content').hide();
     Swal.fire({
         title: 'He luu cậu!',
-        text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
-        imageUrl: 'img/cuteCat.jpg',
+        text: 'Tớ có thứ này muốn cho cậu xemm nè!!!',
+        imageUrl: 'https://i.pinimg.com/564x/46/d0/5c/46d05c82e738184a320d795fea4c2cfd.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
